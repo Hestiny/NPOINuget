@@ -1,0 +1,7 @@
+{
+  "name": "com.norlo.npoinuget",
+  "displayName": "NPOINuget",
+  "version": "0.1.0",
+  "unity": "2021.3",
+  "description": "NPOI2.2.1\u7684\u5305 \u4e5f\u53ef\u4ee5\u81ea\u5df1\u5728nuget\u4e2d\u8fdb\u884c\u4e0b\u8f7d"
+}
